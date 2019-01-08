@@ -19,6 +19,8 @@ public class OneDimensionalArrayDemo {
 		int[] array2 = new int[] {1,2,4,5};
 		printElements(array2);
 
+		System.out.println(array);//array is an object
+		
 	}
 
 	private static void printElements(int[] array) {
@@ -27,6 +29,7 @@ public class OneDimensionalArrayDemo {
 			System.out.print(i + ", ");
 		}
 		System.out.println();
+		
 	}
 
 }
