@@ -1,4 +1,14 @@
 package com.gl.arrays;
+/**
+ * 
+ * @author Arvind
+ * 
+ * One dimensional array demo, following things have been covered- 
+ * -declaration
+ * -instantiation
+ * -initialization 
+ *
+ */
 
 public class OneDimensionalArrayDemo {
 

@@ -1,6 +1,8 @@
 package com.gl.arrays;
 /**
+ * @author Arvind
  * 
+ * Multidimensional array
  * Arrays are passed by reference
  *
  */

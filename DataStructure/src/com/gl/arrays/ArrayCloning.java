@@ -1,5 +1,13 @@
 package com.gl.arrays;
 
+/**
+ * 
+ * @author Arvind
+ * 
+ * its always deep cloning for first level of elements
+ * So in case of multidimensional arrays elements of subarrays are shared
+ *
+ */
 public class ArrayCloning {
 
 	public static void main(String[] args) {
