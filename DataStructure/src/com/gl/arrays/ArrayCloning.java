@@ -26,8 +26,10 @@ public class ArrayCloning {
 		
 		System.out.println("twoDimeArray1 == clonedTwoDimeArray1 >> " + (twoDimeArray1 == clonedTwoDimeArray1));
 		System.out.println("twoDimeArray1[0] == clonedTwoDimeArray1[0] -> " + (twoDimeArray1[0] == clonedTwoDimeArray1[0]));
-		System.out.println("twoDimeArray1[1] == clonedTwoDimeArray1[1] -> " + (twoDimeArray1[1] == clonedTwoDimeArray1[0]));
+		System.out.println("twoDimeArray1[1] == clonedTwoDimeArray1[1] -> " + (twoDimeArray1[1] == clonedTwoDimeArray1[1]));
 
+		
+		//array1.
 	}
 
 }
