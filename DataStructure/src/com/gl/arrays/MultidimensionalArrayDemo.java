@@ -3,7 +3,6 @@ package com.gl.arrays;
  * @author Arvind
  * 
  * Multidimensional array
- * Arrays are passed by reference
  *
  */
 
@@ -11,7 +10,7 @@ public class MultidimensionalArrayDemo {
 
 	public static void main(String[] args) {
 		showTwoDimensionalArray();
-		//showThreeDimensionalArray();
+		showThreeDimensionalArray();
 
 	}
 
