@@ -31,6 +31,8 @@ public class OneDimensionalArrayDemo {
 
 		System.out.println(array);//array is an object
 		
+		//String[] array23 = new String[10L];//declaration
+		
 	}
 
 	private static void printElements(int[] array) {
