@@ -1,5 +1,11 @@
 package com.gl.linkedlist;
 
+/**
+ * 
+ * @author 
+ *
+ *Circular linked list - unidirectional
+ */
 public class CircularLinkedListDemo {
 
 	static Node head;
@@ -67,11 +73,11 @@ public class CircularLinkedListDemo {
 	private static void insertIntoCLL(int data) {
 		Node node = new Node(data);
 
-		Node tmp = head;
-		while (tmp.next != head) {
-			tmp = tmp.next;
+		Node last = head;
+		while (last.next != head) {
+			last = last.next;
 		}
-		tmp.next = node;
+		last.next = node;
 		node.next = head;
 		head = node;
 
