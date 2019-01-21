@@ -1,10 +1,10 @@
-package com.gl.linkedlist;
+package com.gl.linkedlist.dll;
 
 /**
  * 
- * @author Arvind
+ * @author #GreenLearner
  * 
- *         Adding elements at following locations 
+ *  Adding elements at following locations 
  *         1. Front 
  *         2. After a given node
  *         3. Before a given node 
