@@ -4,11 +4,8 @@ package com.gl.linkedlist.dll;
  * 
  * @author #GreenLearner
  * 
- *  Adding elements at following locations 
- *         1. Front 
- *         2. After a given node
- *         3. Before a given node 
- *         4. end of the node
+ *         Adding elements at following locations 1. Front 2. After a given node
+ *         3. Before a given node 4. end of the node
  *
  */
 public class AddingElementsIntoDLL {
@@ -22,15 +19,20 @@ public class AddingElementsIntoDLL {
 		System.out.println("*********push at the head of linked list*********");
 		insertAtFrontOfTheDLL(100);
 		printDLL();
-		System.out.println("*********push after given node*********");
-		insertAfterGivenNodeDLL(2, 400);
-		printDLL();
+
+		
+		 System.out.println("*********push after given node*********");
+		 insertAfterGivenNodeDLL(21, 400); 
+		 printDLL();
+		 
 		System.out.println("*********push before given node*********");
-		insertBeforeGivenNodeDLL(100, 200);
+		insertBeforeGivenNodeDLL(1, 200);
 		printDLL();
-		System.out.println("*********push at the end of linked list*********");
-		insertAtEndOfDLL(1000);
-		printDLL();
+
+		/*
+		 * System.out.println("*********push at the end of linked list*********");
+		 * insertAtEndOfDLL(10); printDLL();
+		 */
 
 	}
 
@@ -128,9 +130,9 @@ public class AddingElementsIntoDLL {
 
 	private static void insertAtFrontOfTheDLL(int data) {
 		Node node = new Node(data);
-		node.next = head;
 		if (head != null) {
 			head.prev = node;
+			node.next = head;
 		}
 		head = node;
 

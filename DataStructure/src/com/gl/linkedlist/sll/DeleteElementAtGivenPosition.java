@@ -9,8 +9,8 @@ public class DeleteElementAtGivenPosition {
 		System.out.println("**********Initializing linked list**********");
 		initializeLinkedList();
 		printList();
-		System.out.println("**********After deleting element at position 0 **********");
-		deleteNodeAtPos(0);
+		System.out.println("**********After deleting element at position 3 **********");
+		deleteNodeAtPos(4);
 		printList();
 	}
 
