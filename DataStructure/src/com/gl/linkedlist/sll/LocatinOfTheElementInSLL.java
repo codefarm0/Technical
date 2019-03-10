@@ -1,4 +1,4 @@
-package com.gl.linkedlist;
+package com.gl.linkedlist.sll;
 
 public class LocatinOfTheElementInSLL {
 
