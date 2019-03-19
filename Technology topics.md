@@ -6,6 +6,7 @@
 JWT
 	https://github.com/only2dhir/spring-boot-jwt
 	https://medium.com/@hantsy/protect-rest-apis-with-spring-security-and-jwt-5fbc90305cc5
+	https://www.youtube.com/watch?v=mD3vmgksvz8
 	
 security with spring	
 	https://dzone.com/articles/thoughts-and-ideas-related-to-java-programming
@@ -18,9 +19,13 @@ distributed tracing
 	Zipkin - tracing services
 		https://github.com/openzipkin/zipkin#quick-start
 		https://github.com/openzipkin/zipkin/tree/master/zipkin-server
+		https://github.com/openzipkin/sleuth-webmvc-example -- good one
 	sleuth
 	opentracing
 		opentracing.io
+
+Sleuth
+	https://www.baeldung.com/spring-cloud-sleuth-single-application
 
 ZUUL
 	Zuul is an edge service that provides dynamic routing, monitoring, resiliency, security, and more.
@@ -43,5 +48,8 @@ Java NIO
 
 Prometheus and graffana
 	https://dzone.com/articles/monitoring-using-spring-boot-2-prometheus-and-graf
+	
+@Preauthorize
+	https://www.baeldung.com/spring-security-method-security
 	
 	
