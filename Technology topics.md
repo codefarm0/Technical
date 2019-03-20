@@ -26,19 +26,19 @@
 	https://www.youtube.com/watch?v=cKjgkNt-tFg
 	JWS - json web signature
 	
-##Springboot-dev-tool is great
+## Springboot-dev-tool is great
 
 	Use it for hot swapping of code
 	
 
 ## distributed tracing 
-	###Zipkin - tracing services
+	### Zipkin - tracing services
 		https://github.com/openzipkin/zipkin#quick-start
 		https://github.com/openzipkin/zipkin/tree/master/zipkin-server
 		https://github.com/openzipkin/sleuth-webmvc-example -- good one
 		opentracing.io
 		
-	###sleuth
+	### sleuth
 	https://www.baeldung.com/spring-cloud-sleuth-single-application
 	
 
