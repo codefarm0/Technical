@@ -8,7 +8,7 @@
 ## What is Cross-Origin Resource Sharing (CORS)
 
 
-	https://spring.io/guides/gs/rest-service-cors/
+	source : https://spring.io/guides/gs/rest-service-cors/
 	https://en.wikipedia.org/wiki/Cross-origin_resource_sharing/
 	https://www.baeldung.com/spring-cors/
 	
