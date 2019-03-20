@@ -77,3 +77,11 @@
 	https://dzone.com/users/3204300/arvind029.html?sort=saved/
 	
 	
+	
+	This is [an example](http://www.example.com/) inline link.
+
+[This link](http://example.com/ "Title") has a title attribute.
+
+Links are also auto-detected in text: http://example.com/
+	
+	
