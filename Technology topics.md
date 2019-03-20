@@ -2,7 +2,7 @@
 =============================================================================================== 
 
 
- MD sytax guide - https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html
+ MD sytax guide - https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html/
  
  
 ## What is Cross-Origin Resource Sharing (CORS)
