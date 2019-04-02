@@ -8,7 +8,7 @@
 ## What is Cross-Origin Resource Sharing (CORS)
 
 
-	source : https://spring.io/guides/gs/rest-service-cors/
+	https://spring.io/guides/gs/rest-service-cors/
 	https://en.wikipedia.org/wiki/Cross-origin_resource_sharing/
 	https://www.baeldung.com/spring-cors/
 	
@@ -72,16 +72,22 @@
 ## @Preauthorize
 	https://www.baeldung.com/spring-security-method-security/
 	
+		
+## Netflix Ribbon
+	For Load balancing
+
+## Netflix eureka
+	use to register/deregiste microservices
 	
-## Feign Client
+## Microservice communication -- Feign and RestTemplate
+	https://www.baeldung.com/spring-cloud-netflix-hystrix
 	https://dzone.com/users/3204300/arvind029.html?sort=saved/
+	https://www.javainuse.com/spring/spring-cloud-netflix-feign-tutorial/
+	https://spring.io/projects/spring-cloud
+	https://github.com/OpenFeign/feign
+	https://www.baeldung.com/intro-to-feign
 	
 	
-	
-	This is [an example](http://www.example.com/) inline link.
 
-[This link](http://example.com/ "Title") has a title attribute.
-
-Links are also auto-detected in text: http://example.com/
 	
 	
