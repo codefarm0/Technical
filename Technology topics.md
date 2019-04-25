@@ -95,6 +95,15 @@
 ## Java 8,9,10,11,12
 	
 	
+## Micronaut
+	https://www.youtube.com/watch?v=YYvY9pc3Shw
+	https://objectcomputing.com/resources/publications/sett/july-2018-micronaut-framework-for-the-future
 
+
+## Serverless
+
+## Ahead of time compilation vs Just in Time compilation(jit)
+	Google project Dalvy
 	
-	
+## JAXB
+	https://www.youtube.com/watch?v=za4elW_AImo
