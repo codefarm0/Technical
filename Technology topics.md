@@ -107,3 +107,8 @@
 	
 ## JAXB
 	https://www.youtube.com/watch?v=za4elW_AImo
+	
+## Accessing RESTful services on the Client
+	https://docs.spring.io/spring-framework/docs/3.0.0.M3/reference/html/ch18s03.html
+	MarshallingHttpMessageConverter
+	ClientHttpRequestFactory
