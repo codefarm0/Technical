@@ -121,6 +121,7 @@
 ## JAXB
 	https://www.youtube.com/watch?v=za4elW_AImo
 	
+<<<<<<< HEAD
 ## Grails IDE
 	https://en.wikipedia.org/wiki/Grails_(framework)
 	The target audience for Grails is:
@@ -158,3 +159,12 @@
 	>parse annotations using reflection api
 ## Java Reflection Api
 	> https://www.journaldev.com/1789/java-reflection-example-tutorial
+=======
+## Accessing RESTful services on the Client
+	https://docs.spring.io/spring-framework/docs/3.0.0.M3/reference/html/ch18s03.html
+	MarshallingHttpMessageConverter
+	ClientHttpRequestFactory
+	
+## Pivotal cloud foundry
+	https://docs.cloudfoundry.org/cf-cli/cf-help.html
+>>>>>>> 2e0b8467d438323c7d03c89adcbd358829fa639c
