@@ -41,6 +41,19 @@
 	### sleuth
 	https://www.baeldung.com/spring-cloud-sleuth-single-application/
 	
+	> https://github.com/apache/incubator-zipkin-brave -- for instrumenataion
+	> https://ai.google/research/pubs/pub36356 --Dapper, a Large-Scale Distributed Systems Tracing Infrastructure
+	### dependencies - 
+		> spring-cloud-sleuth
+		> spring-cloud-sleuth-core
+		> spring-cloud-sleuth-dependencies
+		> spring-cloud-sleuth-zipkin
+		> spring-cloud-sleuth
+			>spring-cloud-starter
+			>spring-boot-starter-aop
+			>spring-cloud-sleuth-core
+		> spring-cloud-zipkin
+	
 
 ## ZUUL
 	Zuul is an edge service that provides dynamic routing, monitoring, resiliency, security, and more.
@@ -107,3 +120,41 @@
 	
 ## JAXB
 	https://www.youtube.com/watch?v=za4elW_AImo
+	
+## Grails IDE
+	https://en.wikipedia.org/wiki/Grails_(framework)
+	The target audience for Grails is:
+		1. Java or Groovy developers who are looking for an integrated development environment to create web-based applications.
+		2. Developers without Java experience looking for a high-productivity environment to build web-based applications.
+	
+## Mutation testing
+	> https://link.springer.com/article/10.1007/s10664-017-9582-5
+	Four mutation testing tools for Java, namely 
+	PIT, 
+	muJava, 
+	Major and the research version of PIT, 
+	PITRV
+	stryker-mutator
+	We investigate the strengths of the tools based on: a) a set of real faults and b) manual analysis of the mutants they introduce.
+	> https://medium.com/appsflyer/tests-coverage-is-dead-long-live-mutation-testing-7fd61020330e
+	Stop killing red line, kill the mutants
+	> https://www.appsflyer.com/jobs/
+	> http://pitest.org/java_mutation_testing_systems/
+	# Mutation testing can be conceptually split into four phases
+		Mutant generation - in which the classes are analysed and mutants created
+		Test selection - in which tests are selected to run against the mutants
+		Mutant insertion - in which mutants are loaded into a JVM
+		Mutant detection - in which the selected tests are run against the loaded mutant
+	> https://www.baeldung.com/java-mutation-testing-with-pitest
+	> https://www.mkyong.com/maven/maven-pitest-mutation-testing-example/
+	> http://pitest.org/quickstart/mutators/
+## Redis
+## RabbitMQ
+## MySQL
+## Spring Cloud Services.
+## Java Annotations - java 1.5
+	> WHat are built-in annoatations - metadata about the programe
+	> custom annotations
+	>parse annotations using reflection api
+## Java Reflection Api
+	> https://www.journaldev.com/1789/java-reflection-example-tutorial
