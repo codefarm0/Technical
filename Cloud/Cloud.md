@@ -1,10 +1,14 @@
 ## Cloud foundry commands
 	cf push
+	cf push -p heloPCF-0.0.1-SNAPSHOT.jar helo-pcf (when first time pushing the app)
 	cf help
 	cf logs cf-demo --recent
 	cf logs cf-demo
 	cf m
 	cf apps
+	cf buildpacks
+	cf create-user-provide-service helo-service -p uri (enter then give url of the service to be create)
+	cf bind-service helo-pcf helo-service 
 ## PCF Terms need to explore
 	1. PCF Dev
 		PCF Dev is a small footprint distribution of Pivotal Cloud Foundry (PCF) intended to be run locally on a developer machine. It delivers the essential elements of the Pivotal Cloud Foundry experience quickly through a condensed set of components.

@@ -1,0 +1,14 @@
+applications:
+- name: helo-pcf
+  disk_quota: 2048M
+  instances: 2
+  memory: 1024M
+  routes:
+  - route: helo-pcf.cfapps.io
+  services:
+  - scheduler-development
+  - autoscale-development
+  - helo-service
+  stack: cflinuxfs3
+  path: ./heloPcf/build/libs/heloPCF-0.0.1-SNAPSHOT.jar
+  #domain: cfapps.io -- this is deprecated now
