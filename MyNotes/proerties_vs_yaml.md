@@ -1,5 +1,18 @@
 ## YAML
-YAML is a superset of JSON, and as such is a very convenient format for specifying hierarchical configuration data.
+* YAML is a superset of JSON, and as such is a very convenient format for specifying hierarchical configuration data.
+* It is a human friendly data serialization standard for all programming languages.
+* YAML is more readable and it is good for the developers for read/write configuration files.
+
+### Which  Java YAML parsers available ?
+There are following YAML parsers available for Java,
+
+* SnakeYAML
+* JYaml
+* YamlBeans
+* JvYaml
+Spring Boot uses SnakeYAML library for yaml support.
+
+
 ### Loading YAML
 Spring Framework provides two convenient classes that can be used to load YAML documents. The YamlPropertiesFactoryBean loads YAML as Properties and the YamlMapFactoryBean loads YAML as a Map.
 
