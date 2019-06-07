@@ -46,3 +46,8 @@ Spring Framework provides two convenient classes that can be used to load YAML d
 
 ## Limitations of YAML
 YAML files cannot be loaded by using the @PropertySource annotation. So, in the case that you need to load values that way, you need to use a properties file.
+
+
+##### References
+* https://meetsnehal.wordpress.com/2015/09/12/yaml-an-alternative-to-properties-file-with-spring-boot/
+* https://bitbucket.org/asomov/snakeyaml/wiki/Documentation
