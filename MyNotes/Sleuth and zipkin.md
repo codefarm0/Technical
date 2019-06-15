@@ -76,6 +76,10 @@
 	spring.sleuth.sampling.percentage=1.0
 	logging.level.org.springframework.cloud.sleuth=debug
 
+## Important links 
+* https://www.youtube.com/watch?v=jkSm-652UPo&t=1661s
+* https://www.slideshare.net/SpringCentral/how-to-properly-blame-things-for-causing-latency
+* https://youtu.be/5jNVtWvN8CM?t=324
 	
 	
 		
