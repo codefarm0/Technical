@@ -79,7 +79,11 @@
 * cf space-users space_name
 * cf set-space-role user space-name role
 * cf unset-space-role user space-name role
-##Note
+## Note
+
 * Cloud foundry only accepts binary on other hand openshift allows to deploy using git url also
+* Four build packs are standard- java, ruby, node.js, Go. For others get from git url
+* 
+
 ## Q  &  A
 * push command if there are multiple org and spaces
