@@ -79,6 +79,7 @@
 * cf space-users space_name
 * cf set-space-role user space-name role
 * cf unset-space-role user space-name role
-
+##Note
+* Cloud foundry only accepts binary on other hand openshift allows to deploy using git url also
 ## Q  &  A
 * push command if there are multiple org and spaces
