@@ -88,4 +88,5 @@
 ## Q  &  A
 * push command if there are multiple org and spaces 
   * Gives option to select among multiple/org/spaces
+
 *How to create the job in PCF which is under Tasks section in PCF dashboard
